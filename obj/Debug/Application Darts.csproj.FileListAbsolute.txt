@@ -38,3 +38,7 @@ C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\bin\
 C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\obj\Debug\Application Darts.csproj.ResolveComReference.cache
 C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\bin\Debug\DocumentFormat.OpenXml.dll
 C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Utilisateur\Documents\cul\PreciDart\bin\Debug\Application Darts.exe.config
+C:\Users\Utilisateur\Documents\cul\PreciDart\obj\Debug\Application Darts.csproj.ResolveComReference.cache
+C:\Users\Utilisateur\Documents\cul\PreciDart\obj\Debug\Application Darts.exe
+C:\Users\Utilisateur\Documents\cul\PreciDart\obj\Debug\Application Darts.pdb

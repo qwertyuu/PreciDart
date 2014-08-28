@@ -1,0 +1,40 @@
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\bin\Debug\Application Darts.exe.config
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\bin\Debug\Application Darts.exe
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\bin\Debug\Application Darts.pdb
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\obj\Debug\Application Darts.csprojResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\obj\Debug\Application_Darts.FrmDepart.resources
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\obj\Debug\Application_Darts.FrmChangements.resources
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\obj\Debug\Application_Darts.Properties.Resources.resources
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\obj\Debug\Application Darts.csproj.GenerateResource.Cache
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\obj\Debug\Application Darts.exe
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\obj\Debug\Application Darts.pdb
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\obj\Debug\Application_Darts.FrmInfos.resources
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\Application Darts\Application Darts\obj\Debug\Application_Darts.FrmJeu.resources
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\bin\Debug\Application Darts.exe.config
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\obj\Debug\Application Darts.exe
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\obj\Debug\Application Darts.pdb
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\bin\Debug\Application Darts.exe
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\bin\Debug\Application Darts.pdb
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\obj\Debug\Application Darts.csprojResolveAssemblyReference.cache
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\obj\Debug\Application_Darts.FrmDepart.resources
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\obj\Debug\Application_Darts.FrmChangements.resources
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\obj\Debug\Application_Darts.FrmInfos.resources
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\obj\Debug\Application_Darts.FrmJeu.resources
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\obj\Debug\Application_Darts.Properties.Resources.resources
+C:\Users\Guillaume\Desktop\Projects\Application Darts\Application Darts\obj\Debug\Application Darts.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\bin\Debug\Application Darts.exe.config
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\obj\Debug\Application Darts.exe
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\obj\Debug\Application Darts.pdb
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\obj\Debug\Application Darts.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\obj\Debug\Application_Darts.FrmDepart.resources
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\obj\Debug\Application_Darts.FrmChangements.resources
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\obj\Debug\Application_Darts.FrmInfos.resources
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\obj\Debug\Application_Darts.FrmJeu.resources
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\obj\Debug\Application_Darts.Properties.Resources.resources
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\obj\Debug\Application Darts.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\bin\Debug\Application Darts.exe
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\bin\Debug\Application Darts.pdb
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\bin\Debug\joueurs.xml
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\obj\Debug\Application Darts.csproj.ResolveComReference.cache
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\Darts\Application Darts\bin\Debug\DocumentFormat.OpenXml.xml
